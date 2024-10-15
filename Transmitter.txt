@@ -1,0 +1,733 @@
+öí˝[´ƒ€ù∞í≤,ÑÏ/≤˜1íTÇ!(≤Yl"o≤˜_àDíL	“1&≥,ˇﬂ[!m·mñø5hu0UÉàÄ0äD9õƒ%í;íz>…Ç"5h#&ã(Ão≤˜_àh ,p!ìí˝[´ƒ€ù∞í≤,ÑÏ/≤˜1íTÇ!(≤Yl"o≤˜_àDíL	“1&≥,ˇﬂ[!m·mñø5hu0UÉàÄ0äD9õƒ%í;íz>…Ç"5h#&ã(Ão≤˜_àh ,p!ìí˝[´ƒ€ù∞í≤,ÑÏ/≤˜1íTÇ!(≤Yl"o≤˜_àDíL	“1&≥,ˇﬂ[!m·mñø5hu0SPI Speedz	= 10 Mhz
+STATUS		= 0x0e RX_DR=0 TX_DS=0 MAX_RT=0 RX_P_NO=7 TX_FULL=0
+RX_ADDR_P0-1	= 0xe7e7e7e7e7 0xe7e7e7e7e7
+RX_ADDR_P2-5	= 0xe7 0xe7 0xe7 0xe7
+TX_ADDR		= 0xe7e7e7e7e7
+RX_PW_P0-6	= 0x20 0x20 0x20 0x20 0x20 0x20
+EN_AA		= 0x00
+EN_RXADDR	= 0x03
+RF_CH		= 0x4c
+RF_SETUP	= 0x21
+CONFIG		= 0x0e
+DYNPD/FEATURE	= 0x3f 0x04
+Data Rate	= 250 KBPS
+Model		= nRF24L01+
+CRC Length	= 16 bits
+PA Power	= PA_MIN
+ARC		= 0
+Chip is connected
+Transmitting Message No:1
+Transmission Random Channel No:58
+Plaintext: 4, 2, 6, 5, 2, 6, 7, 8, 2, 3, 4, 5, 6, 2, 1, 4, 
+Encrypted: 203, 139, 188, 216, 101, 74, 6, 83, 92, 246, 15, 41, 150, 38, 166, 66, 
+
+
+Transmitting Message No:2
+Transmission Random Channel No:125
+Plaintext: 203, 139, 188, 216, 101, 74, 6, 83, 92, 246, 15, 41, 150, 38, 166, 66, 
+Encrypted: 243, 152, 120, 163, 125, 61, 13, 41, 190, 71, 117, 162, 10, 218, 230, 78, 
+
+
+Transmitting Message No:3
+Transmission Random Channel No:74
+Plaintext: 243, 152, 120, 163, 125, 61, 13, 41, 190, 71, 117, 162, 10, 218, 230, 78, 
+Encrypted: 158, 124, 106, 38, 65, 216, 145, 77, 73, 86, 246, 92, 143, 196, 80, 60, 
+
+
+Transmitting Message No:4
+Transmission Random Channel No:34
+Plaintext: 158, 124, 106, 38, 65, 216, 145, 77, 73, 86, 246, 92, 143, 196, 80, 60, 
+Encrypted: 134, 220, 162, 68, 115, 228, 15, 93, 91, 94, 200, 74, 142, 248, 173, 170, 
+
+
+Transmitting Message No:5
+Transmission Random Channel No:56
+Plaintext: 134, 220, 162, 68, 115, 228, 15, 93, 91, 94, 200, 74, 142, 248, 173, 170, 
+Encrypted: 63, 83, 117, 210, 55, 143, 194, 170, 243, 25, 213, 178, 121, 255, 254, 30, 
+
+
+Transmitting Message No:6
+Transmission Random Channel No:23
+Plaintext: 63, 83, 117, 210, 55, 143, 194, 170, 243, 25, 213, 178, 121, 255, 254, 30, 
+Encrypted: 6, 51, 95, 213, 36, 72, 128, 132, 26, 219, 46, 203, 46, 168, 246, 66, 
+
+
+Transmitting Message No:7
+Transmission Random Channel No:45
+Plaintext: 6, 51, 95, 213, 36, 72, 128, 132, 26, 219, 46, 203, 46, 168, 246, 66, 
+Encrypted: 36, 37, 151, 149, 128, 27, 182, 232, 237, 102, 4, 181, 97, 13, 184, 22, 
+
+
+Transmitting Message No:8
+Transmission Random Channel No:4
+Plaintext: 36, 37, 151, 149, 128, 27, 182, 232, 237, 102, 4, 181, 97, 13, 184, 22, 
+Encrypted: 250, 37, 204, 35, 198, 148, 199, 91, 5, 163, 12, 84, 64, 182, 27, 255, 
+
+
+Transmitting Message No:9
+Transmission Random Channel No:49
+Plaintext: 250, 37, 204, 35, 198, 148, 199, 91, 5, 163, 12, 84, 64, 182, 27, 255, 
+Encrypted: 114, 210, 78, 166, 0, 145, 43, 152, 3, 176, 24, 39, 35, 39, 112, 81, 
+
+
+Transmitting Message No:10
+Transmission Random Channel No:85
+Plaintext: 114, 210, 78, 166, 0, 145, 43, 152, 3, 176, 24, 39, 35, 39, 112, 81, 
+Encrypted: 211, 74, 219, 217, 45, 170, 190, 146, 242, 19, 26, 204, 106, 157, 228, 176, 
+
+
+Transmitting Message No:11
+Transmission Random Channel No:66
+Plaintext: 211, 74, 219, 217, 45, 170, 190, 146, 242, 19, 26, 204, 106, 157, 228, 176, 
+Encrypted: 23, 25, 79, 23, 109, 59, 238, 194, 180, 190, 221, 24, 76, 148, 9, 31, 
+
+
+Transmitting Message No:12
+Transmission Random Channel No:41
+Plaintext: 23, 25, 79, 23, 109, 59, 238, 194, 180, 190, 221, 24, 76, 148, 9, 31, 
+Encrypted: 53, 228, 81, 210, 175, 201, 154, 157, 53, 45, 122, 153, 220, 10, 153, 24, 
+
+
+Transmitting Message No:13
+Transmission Random Channel No:118
+Plaintext: 53, 228, 81, 210, 175, 201, 154, 157, 53, 45, 122, 153, 220, 10, 153, 24, 
+Encrypted: 55, 61, 62, 222, 126, 171, 204, 143, 226, 46, 81, 161, 255, 170, 204, 232, 
+
+
+Transmitting Message No:14
+Transmission Random Channel No:43
+Plaintext: 55, 61, 62, 222, 126, 171, 204, 143, 226, 46, 81, 161, 255, 170, 204, 232, 
+Encrypted: 74, 175, 149, 45, 222, 205, 186, 52, 93, 247, 51, 111, 204, 191, 209, 227, 
+
+
+Transmitting Message No:15
+Transmission Random Channel No:113
+Plaintext: 74, 175, 149, 45, 222, 205, 186, 52, 93, 247, 51, 111, 204, 191, 209, 227, 
+Encrypted: 179, 250, 39, 34, 141, 158, 137, 218, 139, 146, 111, 155, 164, 227, 49, 19, 
+
+
+Transmitting Message No:16
+Transmission Random Channel No:4
+Plaintext: 179, 250, 39, 34, 141, 158, 137, 218, 139, 146, 111, 155, 164, 227, 49, 19, 
+Encrypted: 84, 175, 159, 167, 173, 60, 35, 121, 9, 241, 44, 66, 53, 128, 57, 223, 
+
+
+Transmitting Message No:17
+Transmission Random Channel No:78
+Plaintext: 84, 175, 159, 167, 173, 60, 35, 121, 9, 241, 44, 66, 53, 128, 57, 223, 
+Encrypted: 114, 118, 221, 92, 11, 90, 213, 65, 226, 63, 219, 108, 34, 35, 235, 182, 
+
+
+Transmitting Message No:18
+Transmission Random Channel No:105
+Plaintext: 114, 118, 221, 92, 11, 90, 213, 65, 226, 63, 219, 108, 34, 35, 235, 182, 
+Encrypted: 85, 93, 101, 187, 210, 102, 236, 196, 51, 14, 10, 57, 59, 166, 241, 78, 
+
+
+Transmitting Message No:19
+Transmission Random Channel No:91
+Plaintext: 85, 93, 101, 187, 210, 102, 236, 196, 51, 14, 10, 57, 59, 166, 241, 78, 
+Encrypted: 111, 219, 179, 18, 88, 117, 7, 31, 99, 244, 123, 154, 215, 44, 164, 195, 
+
+
+Transmitting Message No:20
+Transmission Random Channel No:113
+Plaintext: 111, 219, 179, 18, 88, 117, 7, 31, 99, 244, 123, 154, 215, 44, 164, 195, 
+Encrypted: 247, 63, 248, 141, 171, 243, 56, 251, 228, 114, 32, 39, 157, 124, 181, 5, 
+
+
+Transmitting Message No:21
+Transmission Random Channel No:54
+Plaintext: 247, 63, 248, 141, 171, 243, 56, 251, 228, 114, 32, 39, 157, 124, 181, 5, 
+Encrypted: 203, 230, 245, 242, 164, 85, 11, 56, 154, 34, 177, 49, 210, 179, 7, 107, 
+
+
+Transmitting Message No:22
+Transmission Random Channel No:45
+Plaintext: 203, 230, 245, 242, 164, 85, 11, 56, 154, 34, 177, 49, 210, 179, 7, 107, 
+Encrypted: 208, 178, 188, 147, 248, 119, 242, 255, 118, 173, 63, 137, 146, 207, 20, 92, 
+
+
+Transmitting Message No:23
+Transmission Random Channel No:85
+Plaintext: 208, 178, 188, 147, 248, 119, 242, 255, 118, 173, 63, 137, 146, 207, 20, 92, 
+Encrypted: 98, 37, 88, 74, 38, 166, 253, 110, 200, 218, 61, 166, 163, 118, 36, 92, 
+
+
+Transmitting Message No:24
+Transmission Random Channel No:33
+Plaintext: 98, 37, 88, 74, 38, 166, 253, 110, 200, 218, 61, 166, 163, 118, 36, 92, 
+Encrypted: 16, 199, 134, 73, 27, 145, 56, 143, 135, 140, 225, 247, 201, 199, 155, 100, 
+
+
+Transmitting Message No:25
+Transmission Random Channel No:61
+Plaintext: 16, 199, 134, 73, 27, 145, 56, 143, 135, 140, 225, 247, 201, 199, 155, 100, 
+Encrypted: 23, 39, 120, 57, 131, 177, 165, 245, 41, 181, 2, 16, 147, 186, 215, 163, 
+
+
+Transmitting Message No:26
+Transmission Random Channel No:59
+Plaintext: 23, 39, 120, 57, 131, 177, 165, 245, 41, 181, 2, 16, 147, 186, 215, 163, 
+Encrypted: 246, 212, 252, 191, 242, 120, 48, 152, 210, 170, 68, 242, 205, 199, 67, 195, 
+
+
+Transmitting Message No:27
+Transmission Random Channel No:100
+Plaintext: 246, 212, 252, 191, 242, 120, 48, 152, 210, 170, 68, 242, 205, 199, 67, 195, 
+Encrypted: 5, 49, 116, 245, 61, 16, 12, 227, 111, 108, 184, 16, 202, 30, 177, 62, 
+
+
+Transmitting Message No:28
+Transmission Random Channel No:29
+Plaintext: 5, 49, 116, 245, 61, 16, 12, 227, 111, 108, 184, 16, 202, 30, 177, 62, 
+Encrypted: 159, 251, 174, 208, 100, 251, 205, 18, 234, 5, 28, 194, 203, 142, 15, 187, 
+
+
+Transmitting Message No:29
+Transmission Random Channel No:67
+Plaintext: 159, 251, 174, 208, 100, 251, 205, 18, 234, 5, 28, 194, 203, 142, 15, 187, 
+Encrypted: 203, 168, 0, 242, 34, 236, 10, 117, 46, 248, 154, 225, 194, 253, 79, 4, 
+
+
+Transmitting Message No:30
+Transmission Random Channel No:86
+Plaintext: 203, 168, 0, 242, 34, 236, 10, 117, 46, 248, 154, 225, 194, 253, 79, 4, 
+Encrypted: 79, 212, 247, 152, 182, 57, 133, 224, 138, 24, 217, 140, 163, 38, 204, 3, 
+
+
+Transmitting Message No:31
+Transmission Random Channel No:98
+Plaintext: 79, 212, 247, 152, 182, 57, 133, 224, 138, 24, 217, 140, 163, 38, 204, 3, 
+Encrypted: 95, 78, 62, 73, 66, 127, 92, 156, 56, 247, 92, 102, 63, 221, 173, 183, 
+
+
+Transmitting Message No:32
+Transmission Random Channel No:77
+Plaintext: 95, 78, 62, 73, 66, 127, 92, 156, 56, 247, 92, 102, 63, 221, 173, 183, 
+Encrypted: 34, 47, 28, 71, 251, 90, 126, 218, 97, 201, 236, 208, 148, 125, 254, 112, 
+
+
+Transmitting Message No:33
+Transmission Random Channel No:13
+Plaintext: 34, 47, 28, 71, 251, 90, 126, 218, 97, 201, 236, 208, 148, 125, 254, 112, 
+Encrypted: 182, 246, 106, 33, 233, 198, 236, 35, 37, 164, 147, 61, 38, 104, 135, 20, 
+
+
+Transmitting Message No:34
+Transmission Random Channel No:18
+Plaintext: 182, 246, 106, 33, 233, 198, 236, 35, 37, 164, 147, 61, 38, 104, 135, 20, 
+Encrypted: 59, 66, 222, 230, 87, 20, 214, 128, 86, 167, 241, 29, 194, 153, 11, 238, 
+
+
+Transmitting Message No:35
+Transmission Random Channel No:61
+Plaintext: 59, 66, 222, 230, 87, 20, 214, 128, 86, 167, 241, 29, 194, 153, 11, 238, 
+Encrypted: 181, 30, 235, 246, 208, 3, 249, 157, 103, 120, 24, 48, 91, 142, 225, 101, 
+
+
+Transmitting Message No:36
+Transmission Random Channel No:9
+Plaintext: 181, 30, 235, 246, 208, 3, 249, 157, 103, 120, 24, 48, 91, 142, 225, 101, 
+Encrypted: 216, 68, 215, 0, 26, 82, 216, 114, 194, 251, 216, 201, 150, 91, 111, 114, 
+
+
+Transmitting Message No:37
+Transmission Random Channel No:105
+Plaintext: 216, 68, 215, 0, 26, 82, 216, 114, 194, 251, 216, 201, 150, 91, 111, 114, 
+Encrypted: 197, 117, 226, 147, 190, 216, 178, 130, 56, 25, 136, 212, 3, 251, 166, 53, 
+
+
+Transmitting Message No:38
+Transmission Random Channel No:25
+Plaintext: 197, 117, 226, 147, 190, 216, 178, 130, 56, 25, 136, 212, 3, 251, 166, 53, 
+Encrypted: 216, 9, 43, 229, 144, 240, 4, 78, 25, 98, 6, 40, 169, 27, 234, 17, 
+
+
+Transmitting Message No:39
+Transmission Random Channel No:80
+Plaintext: 216, 9, 43, 229, 144, 240, 4, 78, 25, 98, 6, 40, 169, 27, 234, 17, 
+Encrypted: 156, 93, 201, 226, 217, 233, 21, 158, 4, 157, 157, 163, 124, 143, 182, 243, 
+
+
+Transmitting Message No:40
+Transmission Random Channel No:72
+Plaintext: 156, 93, 201, 226, 217, 233, 21, 158, 4, 157, 157, 163, 124, 143, 182, 243, 
+Encrypted: 208, 236, 61, 17, 235, 43, 41, 166, 111, 56, 240, 229, 94, 124, 204, 158, 
+
+
+Transmitting Message No:41
+Transmission Random Channel No:93
+Plaintext: 208, 236, 61, 17, 235, 43, 41, 166, 111, 56, 240, 229, 94, 124, 204, 158, 
+Encrypted: 120, 222, 130, 248, 165, 43, 153, 22, 158, 80, 66, 106, 232, 67, 38, 78, 
+
+
+Transmitting Message No:42
+Transmission Random Channel No:48
+Plaintext: 120, 222, 130, 248, 165, 43, 153, 22, 158, 80, 66, 106, 232, 67, 38, 78, 
+Encrypted: 170, 137, 211, 132, 241, 216, 26, 58, 187, 205, 19, 178, 252, 81, 110, 36, 
+
+
+Transmitting Message No:43
+Transmission Random Channel No:19
+Plaintext: 170, 137, 211, 132, 241, 216, 26, 58, 187, 205, 19, 178, 252, 81, 110, 36, 
+Encrypted: 138, 244, 240, 252, 55, 132, 45, 245, 152, 251, 159, 4, 48, 234, 79, 26, 
+
+
+Transmitting Message No:44
+Transmission Random Channel No:87
+Plaintext: 138, 244, 240, 252, 55, 132, 45, 245, 152, 251, 159, 4, 48, 234, 79, 26, 
+Encrypted: 13, 23, 247, 195, 63, 15, 220, 10, 49, 144, 37, 142, 137, 225, 204, 25, 
+
+
+Transmitting Message No:45
+Transmission Random Channel No:111
+Plaintext: 13, 23, 247, 195, 63, 15, 220, 10, 49, 144, 37, 142, 137, 225, 204, 25, 
+Encrypted: 15, 100, 225, 133, 33, 225, 87, 106, 143, 111, 35, 108, 206, 199, 51, 178, 
+
+
+Transmitting Message No:46
+Transmission Random Channel No:121
+Plaintext: 15, 100, 225, 133, 33, 225, 87, 106, 143, 111, 35, 108, 206, 199, 51, 178, 
+Encrypted: 171, 117, 127, 99, 29, 182, 69, 59, 13, 229, 70, 83, 52, 239, 221, 67, 
+
+
+Transmitting Message No:47
+Transmission Random Channel No:104
+Plaintext: 171, 117, 127, 99, 29, 182, 69, 59, 13, 229, 70, 83, 52, 239, 221, 67, 
+Encrypted: 11, 180, 21, 191, 244, 218, 204, 51, 119, 97, 101, 202, 74, 178, 158, 151, 
+
+
+Transmitting Message No:48
+Transmission Random Channel No:92
+Plaintext: 11, 180, 21, 191, 244, 218, 204, 51, 119, 97, 101, 202, 74, 178, 158, 151, 
+Encrypted: 227, 136, 254, 192, 198, 207, 158, 123, 52, 110, 80, 58, 42, 118, 167, 89, 
+
+
+Transmitting Message No:49
+Transmission Random Channel No:70
+Plaintext: 227, 136, 254, 192, 198, 207, 158, 123, 52, 110, 80, 58, 42, 118, 167, 89, 
+Encrypted: 109, 134, 142, 5, 77, 170, 143, 52, 210, 209, 230, 166, 211, 174, 64, 42, 
+
+
+Transmitting Message No:50
+Transmission Random Channel No:108
+Plaintext: 109, 134, 142, 5, 77, 170, 143, 52, 210, 209, 230, 166, 211, 174, 64, 42, 
+Encrypted: 177, 188, 75, 178, 178, 0, 206, 29, 227, 116, 238, 206, 105, 9, 161, 145, 
+
+
+Transmitting Message No:51
+Transmission Random Channel No:2
+Plaintext: 177, 188, 75, 178, 178, 0, 206, 29, 227, 116, 238, 206, 105, 9, 161, 145, 
+Encrypted: 70, 103, 253, 114, 2, 66, 32, 109, 115, 156, 38, 85, 93, 125, 238, 30, 
+
+
+Transmitting Message No:52
+Transmission Random Channel No:29
+Plaintext: 70, 103, 253, 114, 2, 66, 32, 109, 115, 156, 38, 85, 93, 125, 238, 30, 
+Encrypted: 8, 186, 232, 17, 120, 33, 42, 155, 204, 81, 184, 30, 191, 221, 96, 115, 
+
+
+Transmitting Message No:53
+Transmission Random Channel No:84
+Plaintext: 8, 186, 232, 17, 120, 33, 42, 155, 204, 81, 184, 30, 191, 221, 96, 115, 
+Encrypted: 241, 19, 24, 170, 113, 75, 24, 255, 152, 21, 90, 88, 202, 95, 2, 128, 
+
+
+Transmitting Message No:54
+Transmission Random Channel No:70
+Plaintext: 241, 19, 24, 170, 113, 75, 24, 255, 152, 21, 90, 88, 202, 95, 2, 128, 
+Encrypted: 151, 191, 101, 128, 252, 121, 4, 52, 192, 127, 220, 166, 134, 238, 100, 65, 
+
+
+Transmitting Message No:55
+Transmission Random Channel No:44
+Plaintext: 151, 191, 101, 128, 252, 121, 4, 52, 192, 127, 220, 166, 134, 238, 100, 65, 
+Encrypted: 182, 34, 36, 255, 160, 181, 158, 134, 132, 111, 46, 241, 185, 105, 21, 94, 
+
+
+Transmitting Message No:56
+Transmission Random Channel No:116
+Plaintext: 182, 34, 36, 255, 160, 181, 158, 134, 132, 111, 46, 241, 185, 105, 21, 94, 
+Encrypted: 19, 17, 104, 64, 81, 238, 221, 140, 14, 33, 88, 51, 152, 95, 55, 47, 
+
+
+Transmitting Message No:57
+Transmission Random Channel No:125
+Plaintext: 19, 17, 104, 64, 81, 238, 221, 140, 14, 33, 88, 51, 152, 95, 55, 47, 
+Encrypted: 213, 124, 213, 129, 126, 255, 239, 162, 154, 239, 154, 83, 203, 56, 67, 1, 
+
+
+Transmitting Message No:58
+Transmission Random Channel No:72
+Plaintext: 213, 124, 213, 129, 126, 255, 239, 162, 154, 239, 154, 83, 203, 56, 67, 1, 
+Encrypted: 227, 141, 176, 178, 225, 173, 157, 82, 114, 118, 32, 221, 25, 217, 200, 221, 
+
+
+Transmitting Message No:59
+Transmission Random Channel No:31
+Plaintext: 227, 141, 176, 178, 225, 173, 157, 82, 114, 118, 32, 221, 25, 217, 200, 221, 
+Encrypted: 162, 116, 240, 147, 171, 19, 39, 165, 100, 255, 81, 21, 200, 205, 216, 219, 
+
+
+Transmitting Message No:60
+Transmission Random Channel No:29
+Plaintext: 162, 116, 240, 147, 171, 19, 39, 165, 100, 255, 81, 21, 200, 205, 216, 219, 
+Encrypted: 156, 117, 170, 60, 214, 175, 176, 57, 209, 51, 204, 86, 164, 115, 11, 116, 
+
+
+Transmitting Message No:61
+Transmission Random Channel No:98
+Plaintext: 156, 117, 170, 60, 214, 175, 176, 57, 209, 51, 204, 86, 164, 115, 11, 116, 
+Encrypted: 6, 93, 35, 139, 61, 103, 184, 191, 220, 242, 13, 39, 172, 82, 219, 25, 
+
+
+Transmitting Message No:62
+Transmission Random Channel No:42
+Plaintext: 6, 93, 35, 139, 61, 103, 184, 191, 220, 242, 13, 39, 172, 82, 219, 25, 
+Encrypted: 149, 223, 232, 211, 169, 120, 134, 187, 148, 68, 35, 68, 67, 252, 247, 207, 
+
+
+Transmitting Message No:63
+Transmission Random Channel No:50
+Plaintext: 149, 223, 232, 211, 169, 120, 134, 187, 148, 68, 35, 68, 67, 252, 247, 207, 
+Encrypted: 211, 22, 200, 217, 130, 240, 33, 73, 130, 95, 160, 60, 39, 18, 138, 148, 
+
+
+Transmitting Message No:64
+Transmission Random Channel No:25
+Plaintext: 211, 22, 200, 217, 130, 240, 33, 73, 130, 95, 160, 60, 39, 18, 138, 148, 
+Encrypted: 15, 153, 213, 33, 60, 108, 166, 233, 83, 63, 18, 134, 175, 152, 3, 30, 
+
+
+Transmitting Message No:65
+Transmission Random Channel No:52
+Plaintext: 15, 153, 213, 33, 60, 108, 166, 233, 83, 63, 18, 134, 175, 152, 3, 30, 
+Encrypted: 205, 251, 63, 168, 56, 146, 202, 164, 246, 152, 210, 224, 123, 139, 185, 76, 
+
+
+Transmitting Message No:66
+Transmission Random Channel No:104
+Plaintext: 205, 251, 63, 168, 56, 146, 202, 164, 246, 152, 210, 224, 123, 139, 185, 76, 
+Encrypted: 88, 93, 8, 101, 177, 68, 178, 224, 244, 21, 92, 9, 211, 166, 64, 56, 
+
+
+Transmitting Message No:67
+Transmission Random Channel No:103
+Plaintext: 88, 93, 8, 101, 177, 68, 178, 224, 244, 21, 92, 9, 211, 166, 64, 56, 
+Encrypted: 54, 230, 27, 245, 103, 115, 76, 37, 242, 86, 182, 223, 92, 7, 147, 15, 
+
+
+Transmitting Message No:68
+Transmission Random Channel No:34
+Plaintext: 54, 230, 27, 245, 103, 115, 76, 37, 242, 86, 182, 223, 92, 7, 147, 15, 
+Encrypted: 42, 31, 100, 137, 76, 56, 106, 226, 199, 117, 75, 65, 202, 183, 71, 38, 
+
+
+Transmitting Message No:69
+Transmission Random Channel No:104
+Plaintext: 42, 31, 100, 137, 76, 56, 106, 226, 199, 117, 75, 65, 202, 183, 71, 38, 
+Encrypted: 206, 9, 133, 215, 70, 88, 179, 129, 1, 136, 97, 255, 87, 73, 201, 46, 
+
+
+Transmitting Message No:70
+Transmission Random Channel No:59
+Plaintext: 206, 9, 133, 215, 70, 88, 179, 129, 1, 136, 97, 255, 87, 73, 201, 46, 
+Encrypted: 91, 13, 17, 253, 182, 121, 44, 64, 185, 247, 250, 235, 123, 226, 210, 176, 
+
+
+Transmitting Message No:71
+Transmission Random Channel No:49
+Plaintext: 91, 13, 17, 253, 182, 121, 44, 64, 185, 247, 250, 235, 123, 226, 210, 176, 
+Encrypted: 62, 45, 37, 120, 227, 145, 60, 125, 16, 87, 178, 65, 138, 138, 160, 61, 
+
+
+Transmitting Message No:72
+Transmission Random Channel No:107
+Plaintext: 62, 45, 37, 120, 227, 145, 60, 125, 16, 87, 178, 65, 138, 138, 160, 61, 
+Encrypted: 151, 152, 49, 228, 84, 245, 209, 51, 104, 26, 198, 227, 42, 51, 227, 118, 
+
+
+Transmitting Message No:73
+Transmission Random Channel No:11
+Plaintext: 151, 152, 49, 228, 84, 245, 209, 51, 104, 26, 198, 227, 42, 51, 227, 118, 
+Encrypted: 216, 140, 163, 114, 26, 103, 71, 188, 18, 74, 73, 31, 101, 112, 188, 47, 
+
+
+Transmitting Message No:74
+Transmission Random Channel No:14
+Plaintext: 216, 140, 163, 114, 26, 103, 71, 188, 18, 74, 73, 31, 101, 112, 188, 47, 
+Encrypted: 141, 203, 255, 106, 23, 155, 122, 178, 157, 139, 63, 218, 30, 129, 255, 217, 
+
+
+Transmitting Message No:75
+Transmission Random Channel No:116
+Plaintext: 141, 203, 255, 106, 23, 155, 122, 178, 157, 139, 63, 218, 30, 129, 255, 217, 
+Encrypted: 139, 56, 65, 107, 152, 24, 200, 211, 188, 74, 245, 164, 223, 204, 160, 79, 
+
+
+Transmitting Message No:76
+Transmission Random Channel No:65
+Plaintext: 139, 56, 65, 107, 152, 24, 200, 211, 188, 74, 245, 164, 223, 204, 160, 79, 
+Encrypted: 141, 6, 36, 31, 134, 73, 164, 107, 186, 166, 158, 170, 144, 92, 110, 201, 
+
+
+Transmitting Message No:77
+Transmission Random Channel No:64
+Plaintext: 141, 6, 36, 31, 134, 73, 164, 107, 186, 166, 158, 170, 144, 92, 110, 201, 
+Encrypted: 176, 100, 46, 49, 209, 143, 194, 210, 88, 73, 110, 168, 100, 45, 205, 61, 
+
+
+Transmitting Message No:78
+Transmission Random Channel No:37
+Plaintext: 176, 100, 46, 49, 209, 143, 194, 210, 88, 73, 110, 168, 100, 45, 205, 61, 
+Encrypted: 85, 172, 174, 152, 171, 136, 62, 15, 117, 147, 213, 112, 87, 30, 141, 102, 
+
+
+Transmitting Message No:79
+Transmission Random Channel No:51
+Plaintext: 85, 172, 174, 152, 171, 136, 62, 15, 117, 147, 213, 112, 87, 30, 141, 102, 
+Encrypted: 158, 55, 251, 139, 68, 93, 231, 115, 108, 204, 189, 107, 173, 57, 175, 189, 
+
+
+Transmitting Message No:80
+Transmission Random Channel No:45
+Plaintext: 158, 55, 251, 139, 68, 93, 231, 115, 108, 204, 189, 107, 173, 57, 175, 189, 
+Encrypted: 61, 28, 74, 30, 85, 226, 106, 222, 35, 123, 226, 58, 180, 57, 131, 203, 
+
+
+Transmitting Message No:81
+Transmission Random Channel No:116
+Plaintext: 61, 28, 74, 30, 85, 226, 106, 222, 35, 123, 226, 58, 180, 57, 131, 203, 
+Encrypted: 253, 167, 174, 84, 8, 108, 68, 204, 56, 148, 254, 215, 91, 228, 250, 17, 
+
+
+Transmitting Message No:82
+Transmission Random Channel No:95
+Plaintext: 253, 167, 174, 84, 8, 108, 68, 204, 56, 148, 254, 215, 91, 228, 250, 17, 
+Encrypted: 207, 42, 234, 85, 215, 39, 55, 46, 140, 63, 122, 227, 156, 133, 245, 100, 
+
+
+Transmitting Message No:83
+Transmission Random Channel No:5
+Plaintext: 207, 42, 234, 85, 215, 39, 55, 46, 140, 63, 122, 227, 156, 133, 245, 100, 
+Encrypted: 161, 109, 142, 5, 153, 196, 232, 207, 38, 131, 244, 68, 31, 203, 109, 54, 
+
+
+Transmitting Message No:84
+Transmission Random Channel No:2
+Plaintext: 161, 109, 142, 5, 153, 196, 232, 207, 38, 131, 244, 68, 31, 203, 109, 54, 
+Encrypted: 173, 86, 154, 0, 68, 219, 215, 16, 106, 4, 119, 151, 57, 181, 228, 14, 
+
+
+Transmitting Message No:85
+Transmission Random Channel No:18
+Plaintext: 173, 86, 154, 0, 68, 219, 215, 16, 106, 4, 119, 151, 57, 181, 228, 14, 
+Encrypted: 40, 153, 86, 57, 101, 181, 183, 205, 151, 255, 120, 84, 108, 69, 196, 176, 
+
+
+Transmitting Message No:86
+Transmission Random Channel No:71
+Plaintext: 40, 153, 86, 57, 101, 181, 183, 205, 151, 255, 120, 84, 108, 69, 196, 176, 
+Encrypted: 105, 180, 126, 55, 140, 165, 177, 76, 83, 233, 97, 209, 69, 13, 209, 13, 
+
+
+Transmitting Message No:87
+Transmission Random Channel No:106
+Plaintext: 105, 180, 126, 55, 140, 165, 177, 76, 83, 233, 97, 209, 69, 13, 209, 13, 
+Encrypted: 43, 157, 93, 32, 38, 99, 162, 2, 179, 206, 222, 161, 225, 26, 111, 23, 
+
+
+Transmitting Message No:88
+Transmission Random Channel No:30
+Plaintext: 43, 157, 93, 32, 38, 99, 162, 2, 179, 206, 222, 161, 225, 26, 111, 23, 
+Encrypted: 157, 207, 241, 215, 211, 26, 196, 157, 99, 72, 83, 186, 58, 8, 2, 169, 
+
+
+Transmitting Message No:89
+Transmission Random Channel No:77
+Plaintext: 157, 207, 241, 215, 211, 26, 196, 157, 99, 72, 83, 186, 58, 8, 2, 169, 
+Encrypted: 101, 150, 104, 93, 245, 217, 207, 135, 132, 58, 166, 82, 70, 136, 147, 223, 
+
+
+Transmitting Message No:90
+Transmission Random Channel No:49
+Plaintext: 101, 150, 104, 93, 245, 217, 207, 135, 132, 58, 166, 82, 70, 136, 147, 223, 
+Encrypted: 49, 100, 60, 179, 218, 129, 137, 188, 51, 120, 89, 75, 6, 204, 17, 24, 
+
+
+Transmitting Message No:91
+Transmission Random Channel No:64
+Plaintext: 49, 100, 60, 179, 218, 129, 137, 188, 51, 120, 89, 75, 6, 204, 17, 24, 
+Encrypted: 173, 46, 173, 123, 29, 54, 174, 138, 14, 41, 125, 148, 89, 1, 48, 236, 
+
+
+Transmitting Message No:92
+Transmission Random Channel No:124
+Plaintext: 173, 46, 173, 123, 29, 54, 174, 138, 14, 41, 125, 148, 89, 1, 48, 236, 
+Encrypted: 61, 26, 24, 161, 217, 164, 43, 214, 242, 183, 135, 236, 154, 24, 82, 93, 
+
+
+Transmitting Message No:93
+Transmission Random Channel No:6
+Plaintext: 61, 26, 24, 161, 217, 164, 43, 214, 242, 183, 135, 236, 154, 24, 82, 93, 
+Encrypted: 163, 214, 227, 24, 27, 48, 102, 234, 61, 169, 41, 52, 88, 165, 110, 174, 
+
+
+Transmitting Message No:94
+Transmission Random Channel No:8
+Plaintext: 163, 214, 227, 24, 27, 48, 102, 234, 61, 169, 41, 52, 88, 165, 110, 174, 
+Encrypted: 67, 36, 96, 228, 239, 132, 243, 103, 99, 154, 254, 80, 20, 94, 195, 183, 
+
+
+Transmitting Message No:95
+Transmission Random Channel No:3
+Plaintext: 67, 36, 96, 228, 239, 132, 243, 103, 99, 154, 254, 80, 20, 94, 195, 183, 
+Encrypted: 22, 44, 25, 58, 98, 208, 167, 153, 57, 172, 168, 143, 86, 103, 223, 214, 
+
+
+Transmitting Message No:96
+Transmission Random Channel No:67
+Plaintext: 22, 44, 25, 58, 98, 208, 167, 153, 57, 172, 168, 143, 86, 103, 223, 214, 
+Encrypted: 246, 247, 92, 184, 241, 228, 221, 203, 28, 141, 243, 201, 168, 59, 95, 102, 
+
+
+Transmitting Message No:97
+Transmission Random Channel No:92
+Plaintext: 246, 247, 92, 184, 241, 228, 221, 203, 28, 141, 243, 201, 168, 59, 95, 102, 
+Encrypted: 13, 172, 202, 40, 191, 177, 36, 175, 241, 255, 159, 37, 140, 160, 156, 109, 
+
+
+Transmitting Message No:98
+Transmission Random Channel No:88
+Plaintext: 13, 172, 202, 40, 191, 177, 36, 175, 241, 255, 159, 37, 140, 160, 156, 109, 
+Encrypted: 134, 45, 91, 247, 200, 124, 47, 227, 79, 175, 253, 57, 184, 66, 181, 188, 
+
+
+Transmitting Message No:99
+Transmission Random Channel No:64
+Plaintext: 134, 45, 91, 247, 200, 124, 47, 227, 79, 175, 253, 57, 184, 66, 181, 188, 
+Encrypted: 83, 138, 192, 252, 172, 219, 201, 92, 73, 106, 194, 173, 145, 223, 231, 28, 
+
+
+Transmitting Message No:100
+Transmission Random Channel No:20
+Plaintext: 83, 138, 192, 252, 172, 219, 201, 92, 73, 106, 194, 173, 145, 223, 231, 28, 
+Encrypted: 180, 246, 84, 63, 91, 240, 50, 155, 206, 57, 179, 167, 228, 202, 21, 247, 
+
+
+Transmitting Message No:101
+Transmission Random Channel No:2
+Plaintext: 180, 246, 84, 63, 91, 240, 50, 155, 206, 57, 179, 167, 228, 202, 21, 247, 
+Encrypted: 26, 91, 104, 220, 25, 191, 77, 222, 26, 123, 3, 60, 143, 142, 222, 130, 
+
+
+Transmitting Message No:102
+Transmission Random Channel No:23
+Plaintext: 26, 91, 104, 220, 25, 191, 77, 222, 26, 123, 3, 60, 143, 142, 222, 130, 
+Encrypted: 176, 170, 155, 8, 179, 166, 180, 111, 105, 148, 129, 46, 79, 70, 86, 26, 
+
+
+Transmitting Message No:103
+Transmission Random Channel No:122
+Plaintext: 176, 170, 155, 8, 179, 166, 180, 111, 105, 148, 129, 46, 79, 70, 86, 26, 
+Encrypted: 99, 149, 4, 154, 82, 128, 211, 41, 58, 10, 192, 227, 94, 220, 12, 209, 
+
+
+Transmitting Message No:104
+Transmission Random Channel No:79
+Plaintext: 99, 149, 4, 154, 82, 128, 211, 41, 58, 10, 192, 227, 94, 220, 12, 209, 
+Encrypted: 88, 168, 96, 54, 234, 230, 180, 85, 13, 194, 106, 154, 155, 14, 37, 108, 
+
+
+Transmitting Message No:105
+Transmission Random Channel No:13
+Plaintext: 88, 168, 96, 54, 234, 230, 180, 85, 13, 194, 106, 154, 155, 14, 37, 108, 
+Encrypted: 84, 89, 43, 1, 54, 191, 63, 205, 83, 171, 154, 112, 194, 2, 69, 136, 
+
+
+Transmitting Message No:106
+Transmission Random Channel No:109
+Plaintext: 84, 89, 43, 1, 54, 191, 63, 205, 83, 171, 154, 112, 194, 2, 69, 136, 
+Encrypted: 16, 86, 91, 167, 249, 84, 133, 34, 167, 162, 220, 175, 208, 181, 127, 250, 
+
+
+Transmitting Message No:107
+Transmission Random Channel No:53
+Plaintext: 16, 86, 91, 167, 249, 84, 133, 34, 167, 162, 220, 175, 208, 181, 127, 250, 
+Encrypted: 120, 197, 55, 22, 29, 210, 3, 104, 169, 222, 73, 14, 127, 27, 86, 137, 
+
+
+Transmitting Message No:108
+Transmission Random Channel No:23
+Plaintext: 120, 197, 55, 22, 29, 210, 3, 104, 169, 222, 73, 14, 127, 27, 86, 137, 
+Encrypted: 87, 227, 83, 41, 63, 226, 210, 37, 120, 80, 130, 166, 211, 22, 76, 125, 
+
+
+Transmitting Message No:109
+Transmission Random Channel No:45
+Plaintext: 87, 227, 83, 41, 63, 226, 210, 37, 120, 80, 130, 166, 211, 22, 76, 125, 
+Encrypted: 171, 9, 249, 58, 93, 101, 59, 238, 71, 17, 28, 137, 230, 40, 64, 43, 
+
+
+Transmitting Message No:110
+Transmission Random Channel No:30
+Plaintext: 171, 9, 249, 58, 93, 101, 59, 238, 71, 17, 28, 137, 230, 40, 64, 43, 
+Encrypted: 177, 191, 3, 192, 127, 213, 126, 104, 69, 43, 184, 148, 172, 37, 192, 41, 
+
+
+Transmitting Message No:111
+Transmission Random Channel No:110
+Plaintext: 177, 191, 3, 192, 127, 213, 126, 104, 69, 43, 184, 148, 172, 37, 192, 41, 
+Encrypted: 189, 93, 148, 135, 235, 8, 105, 13, 231, 177, 106, 187, 147, 3, 171, 0, 
+
+
+Transmitting Message No:112
+Transmission Random Channel No:107
+Plaintext: 189, 93, 148, 135, 235, 8, 105, 13, 231, 177, 106, 187, 147, 3, 171, 0, 
+Encrypted: 112, 74, 41, 30, 52, 15, 185, 43, 251, 98, 137, 31, 36, 63, 49, 184, 
+
+
+Transmitting Message No:113
+Transmission Random Channel No:121
+Plaintext: 112, 74, 41, 30, 52, 15, 185, 43, 251, 98, 137, 31, 36, 63, 49, 184, 
+Encrypted: 246, 43, 40, 33, 131, 88, 197, 55, 6, 138, 73, 117, 206, 144, 197, 242, 
+
+
+Transmitting Message No:114
+Transmission Random Channel No:51
+Plaintext: 246, 43, 40, 33, 131, 88, 197, 55, 6, 138, 73, 117, 206, 144, 197, 242, 
+Encrypted: 203, 199, 234, 78, 55, 182, 151, 214, 218, 124, 74, 130, 205, 106, 225, 254, 
+
+
+Transmitting Message No:115
+Transmission Random Channel No:11
+Plaintext: 203, 199, 234, 78, 55, 182, 151, 214, 218, 124, 74, 130, 205, 106, 225, 254, 
+Encrypted: 25, 152, 192, 96, 166, 52, 234, 121, 170, 171, 113, 245, 215, 112, 149, 157, 
+
+
+Transmitting Message No:116
+Transmission Random Channel No:49
+Plaintext: 25, 152, 192, 96, 166, 52, 234, 121, 170, 171, 113, 245, 215, 112, 149, 157, 
+Encrypted: 206, 176, 44, 94, 111, 244, 248, 53, 182, 227, 154, 132, 167, 12, 167, 82, 
+
+
+Transmitting Message No:117
+Transmission Random Channel No:18
+Plaintext: 206, 176, 44, 94, 111, 244, 248, 53, 182, 227, 154, 132, 167, 12, 167, 82, 
+Encrypted: 227, 56, 239, 150, 66, 35, 209, 171, 191, 104, 129, 230, 8, 220, 252, 139, 
+
+
+Transmitting Message No:118
+Transmission Random Channel No:25
+Plaintext: 227, 56, 239, 150, 66, 35, 209, 171, 191, 104, 129, 230, 8, 220, 252, 139, 
+Encrypted: 42, 135, 161, 246, 86, 50, 23, 57, 45, 137, 217, 165, 168, 164, 150, 6, 
+
+
+Transmitting Message No:119
+Transmission Random Channel No:94
+Plaintext: 42, 135, 161, 246, 86, 50, 23, 57, 45, 137, 217, 165, 168, 164, 150, 6, 
+Encrypted: 243, 76, 90, 77, 166, 166, 61, 190, 42, 52, 190, 119, 27, 234, 176, 199, 
+
+
+Tr

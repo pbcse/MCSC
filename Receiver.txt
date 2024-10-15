@@ -1,0 +1,996 @@
+7ÿßÃy’›Räëª„×CÖñ;™«¨ø™–MÂ™ÒùßÖ®–ËæÚöFß24›áßÖ¦ò'ËÁîú¬n€×‘øßÓy’›ä/'±,’æú§Mµ€-‘ù/'
+n@˜&ÿßÃ“v”ñÚFƒCëòñúFƒ_$'–ú§K7@˜7ÿßÃy’›Räëª„×CÖñ;™«¨ø™–MÂ™ÒùßÖ®–ËæÚöFß24›áßÖ¦ò'ËÁîú¬n€×‘øßÓy’›ä/'±,’æú§Mµ€-‘ù/'
+n@˜&ÿßÃ“v”ñÚFƒCëòñúFƒ_$'–ú§K7@˜7ÿßÃy’›Räëª„×CÖñ;™«¨ø™–MÂ™ÒùßÖ®–ËæÚöFß24›áßÖ¦ò'ËÁîú¬n€×‘øßÓy’›ä/'±,’æú§Mµ€-‘ù/'
+SPI Speedz	= 10 Mhz
+STATUS		= 0x0e RX_DR=0 TX_DS=0 MAX_RT=0 RX_P_NO=7 TX_FULL=0
+RX_ADDR_P0-1	= 0xe7e7e7e7e7 0xe7e7e7e7e7
+RX_ADDR_P2-5	= 0xe7 0xe7 0xe7 0xe7
+TX_ADDR		= 0xe7e7e7e7e7
+RX_PW_P0-6	= 0x20 0x20 0x20 0x20 0x20 0x20
+EN_AA		= 0x00
+EN_RXADDR	= 0x0b
+RF_CH		= 0x4c
+RF_SETUP	= 0x21
+CONFIG		= 0x0e
+DYNPD/FEATURE	= 0x3f 0x04
+Data Rate	= 250 KBPS
+Model		= nRF24L01+
+CRC Length	= 16 bits
+PA Power	= PA_MIN
+ARC		= 0
+Chip is connected
+Transmition Random Channel No:74
+Receiving Message No:1
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:56
+Receiving Message No:2
+Data Receiving Random Pipe no:4
+
+
+
+Receiving Message No:48
+Receiving Random Channel No:92
+Data Receiving Random Pipe no:3
+Plaintext: 11, 180, 21, 191, 244, 218, 204, 51, 119, 97, 101, 202, 74, 178, 158, 151, 
+Encrypted: 227, 136, 254, 192, 198, 207, 158, 123, 52, 110, 80, 58, 42, 118, 167, 89, 
+
+
+Receiving Message No:49
+Receiving Random Channel No:70
+Data Receiving Random Pipe no:2
+Plaintext: 227, 136, 254, 192, 198, 207, 158, 123, 52, 110, 80, 58, 42, 118, 167, 89, 
+Encrypted: 109, 134, 142, 5, 77, 170, 143, 52, 210, 209, 230, 166, 211, 174, 64, 42, 
+
+
+Receiving Message No:50
+Receiving Random Channel No:108
+Data Receiving Random Pipe no:4
+Plaintext: 109, 134, 142, 5, 77, 170, 143, 52, 210, 209, 230, 166, 211, 174, 64, 42, 
+Encrypted: 177, 188, 75, 178, 178, 0, 206, 29, 227, 116, 238, 206, 105, 9, 161, 145, 
+
+
+Receiving Message No:52
+Receiving Random Channel No:29
+Data Receiving Random Pipe no:1
+Plaintext: 70, 103, 253, 114, 2, 66, 32, 109, 115, 156, 38, 85, 93, 125, 238, 30, 
+Encrypted: 8, 186, 232, 17, 120, 33, 42, 155, 204, 81, 184, 30, 191, 221, 96, 115, 
+
+
+Transmitting Message No:53
+Transmission Random Channel No:84
+Data Receiving Random Pipe no:4
+Plaintext: 8, 186, 232, 17, 120, 33, 42, 155, 204, 81, 184, 30, 191, 221, 96, 115, 
+Encrypted: 241, 19, 24, 170, 113, 75, 24, 255, 152, 21, 90, 88, 202, 95, 2, 128, 
+
+
+
+Transmitting Message No:55
+Transmission Random Channel No:44
+Data Receiving Random Pipe no:5
+Plaintext: 151, 191, 101, 128, 252, 121, 4, 52, 192, 127, 220, 166, 134, 238, 100, 65, 
+Encrypted: 182, 34, 36, 255, 160, 181, 158, 134, 132, 111, 46, 241, 185, 105, 21, 94, 
+
+
+
+
+
+
+
+
+
+
+
+
+Transmition Random Channel No:113
+
+
+
+
+
+
+
+
+
+
+
+
+Receiving Message No:7
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:78
+Receiving Message No:8
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:91
+Receiving Message No:9
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:54
+Receiving Message No:10
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:85
+Receiving Message No:11
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:61
+Receiving Message No:12
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:100
+Receiving Message No:13
+Data Receiving Random Pipe no:4
+Encrypted:23, 39, 120, 57, 131, 177, 165, 245, 41, 181, 2, 16, 147, 186, 215, 163, 
+Plaintext: 246, 212, 252, 191, 242, 120, 48, 152, 210, 170, 68, 242, 205, 199, 67, 195, 
+
+
+Transmition Random Channel No:67
+Receiving Message No:14
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:15
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:13
+Receiving Message No:16
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:61
+Receiving Message No:17
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:105
+Receiving Message No:18
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:80
+Receiving Message No:19
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:93
+Receiving Message No:20
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:19
+Receiving Message No:21
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:111
+Receiving Message No:22
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:104
+Receiving Message No:23
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:70
+Receiving Message No:24
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:2
+Receiving Message No:25
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:84
+Receiving Message No:26
+Data Receiving Random Pipe no:4
+Encrypted:197, 117, 226, 147, 190, 216, 178, 130, 56, 25, 136, 212, 3, 251, 166, 53, 
+Plaintext: 216, 9, 43, 229, 144, 240, 4, 78, 25, 98, 6, 40, 169, 27, 234, 17, 
+
+
+Transmition Random Channel No:44
+Receiving Message No:27
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:125
+Receiving Message No:28
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:31
+Receiving Message No:29
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:30
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:50
+Receiving Message No:31
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:52
+Receiving Message No:32
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:103
+Receiving Message No:33
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:104
+Receiving Message No:34
+Data Receiving Random Pipe no:4
+Encrypted:13, 23, 247, 195, 63, 15, 220, 10, 49, 144, 37, 142, 137, 225, 204, 25, 
+Plaintext: 15, 100, 225, 133, 33, 225, 87, 106, 143, 111, 35, 108, 206, 199, 51, 178, 
+
+
+Transmition Random Channel No:49
+Receiving Message No:35
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:36
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:116
+Receiving Message No:37
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:38
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:51
+Receiving Message No:39
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:116
+Receiving Message No:40
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:5
+Receiving Message No:41
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:42
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:106
+Receiving Message No:43
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:77
+Receiving Message No:44
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:45
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:6
+Receiving Message No:46
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:3
+Receiving Message No:47
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:92
+Receiving Message No:48
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:49
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:2
+Receiving Message No:50
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:122
+Receiving Message No:51
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:13
+Receiving Message No:52
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:53
+Receiving Message No:53
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:45
+Receiving Message No:54
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:110
+Receiving Message No:55
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:121
+Receiving Message No:56
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:57
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:58
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:94
+Receiving Message No:59
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:60
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:95
+Receiving Message No:61
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:21
+Receiving Message No:62
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:114
+Receiving Message No:63
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:7
+Receiving Message No:64
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:68
+Receiving Message No:65
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:83
+Receiving Message No:66
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:67
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:71
+Receiving Message No:68
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:47
+Receiving Message No:69
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:91
+Receiving Message No:70
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:114
+Receiving Message No:71
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:117
+Receiving Message No:72
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:16
+Receiving Message No:73
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:86
+Receiving Message No:74
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:75
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:96
+Receiving Message No:76
+Data Receiving Random Pipe no:4
+
+
+
+Trnsiti’…¹×;™«(U%,"ˆ=üî ĞtË™ß×Ïjq;EÚß_‹[æ™–MÀ›Rù›ä™”MÀŠÒøï(Ë$º/§	İáú'M´JtãÌ!™ë²øú§5B^‘ø™–M›Rùú§ºt£ÌÚFƒmV¾%;™«(U%,"ˆ=üî ĞtË™ß×Ïjq;EÚß_‹[æ™–MÀ›RùSPI Speedz	= 10 Mhz
+STATUS		= 0x0e RX_DR=0 TX_DS=0 MAX_RT=0 RX_P_NO=7 TX_FULL=0
+RX_ADDR_P0-1	= 0xe7e7e7e7e7 0xe7e7e7e7e7
+RX_ADDR_P2-5	= 0xe7 0xe7 0xe7 0xe7
+TX_ADDR		= 0xe7e7e7e7e7
+RX_PW_P0-6	= 0x20 0x20 0x20 0x20 0x20 0x20
+EN_AA		= 0x00
+EN_RXADDR	= 0x0b
+RF_CH		= 0x4c
+RF_SETUP	= 0x21
+CONFIG		= 0x0e
+DYNPD/FEATURE	= 0x3f 0x04
+Data Rate	= 250 KBPS
+Model		= nRF24L01+
+CRC Length	= 16 bits
+PA Power	= PA_MIN
+ARC		= 0
+Chip is connected
+Transmition Random Channel No:74
+Receiving Message No:1
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:56
+Receiving Message No:2
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:45
+Receiving Message No:3
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:49
+Receiving Message No:4
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:66
+Receiving Message No:5
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:118
+Receiving Message No:6
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:113
+Receiving Message No:7
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:78
+Receiving Message No:8
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:91
+Receiving Message No:9
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:54
+Receiving Message No:10
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:85
+Receiving Message No:11
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:61
+Receiving Message No:12
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:100
+Receiving Message No:13
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:67
+Receiving Message No:14
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:15
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:13
+Receiving Message No:16
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:61
+Receiving Message No:17
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:105
+Receiving Message No:18
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:80
+Receiving Message No:19
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:93
+Receiving Message No:20
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:19
+Receiving Message No:21
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:111
+Receiving Message No:22
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:104
+Receiving Message No:23
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:70
+Receiving Message No:24
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:2
+Receiving Message No:25
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:84
+Receiving Message No:26
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:44
+Receiving Message No:27
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:125
+Receiving Message No:28
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:31
+Receiving Message No:29
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:30
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:50
+Receiving Message No:31
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:52
+Receiving Message No:32
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:103
+Receiving Message No:33
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:104
+Receiving Message No:34
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:49
+Receiving Message No:35
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:36
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:116
+Receiving Message No:37
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:38
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:51
+Receiving Message No:39
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:116
+Receiving Message No:40
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:5
+Receiving Message No:41
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:42
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:106
+Receiving Message No:43
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:77
+Receiving Message No:44
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:45
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:6
+Receiving Message No:46
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:3
+Receiving Message No:47
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:92
+Receiving Message No:48
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:64
+Receiving Message No:49
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:2
+Receiving Message No:50
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:122
+Receiving Message No:51
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:13
+Receiving Message No:52
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:53
+Receiving Message No:53
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:45
+Receiving Message No:54
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:110
+Receiving Message No:55
+Data Receiving Random Pipe no:5
+Encrypted:61, 28, 74, 30, 85, 226, 106, 222, 35, 123, 226, 58, 180, 57, 131, 203, 
+Plaintext: 253, 167, 174, 84, 8, 108, 68, 204, 56, 148, 254, 215, 91, 228, 250, 17, 
+
+
+Transmition Random Channel No:121
+Receiving Message No:56
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:57
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:58
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:94
+Receiving Message No:59
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:11
+Receiving Message No:60
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:95
+Receiving Message No:61
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:21
+Receiving Message No:62
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:114
+Receiving Message No:63
+Data Receiving Random Pipe no:4
+
+
+
+Transmition Random Channel No:7
+Receiving Message No:64
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:68
+Receiving Message No:65
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:83
+Receiving Message No:66
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:18
+Receiving Message No:67
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:71
+Receiving Message No:68
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:47
+Receiving Message No:69
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:91
+Receiving Message No:70
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:114
+Receiving Message No:71
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:117
+Receiving Message No:72
+Data Receiving Random Pipe no:3
+
+
+
+Transmition Random Channel No:16
+Receiving Message No:73
+Data Receiving Random Pipe no:1
+
+
+
+Transmition Random Channel No:86
+Receiving Message No:74
+Data Receiving Random Pipe no:5
+
+
+
+Transmition Random Channel No:98
+Receiving Message No:75
+Data Receiving Random Pipe no:2
+
+
+
+Transmition Random Channel No:96
+Receiving Message No:76
+Data Receiving Random Pipe no:4
+
+
+
